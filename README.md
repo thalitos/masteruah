@@ -6,3 +6,8 @@ git status
 git add -A
 git commit -m "Primer commit"
 git push
+
+
+| NOMBRE   |      GITHUB      |
+|:-------------:|:-------------:|
+|thalitos|https://github.com/thalitos|
